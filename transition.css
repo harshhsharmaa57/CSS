@@ -1,0 +1,14 @@
+div{
+    background-color: lime;
+    height: 100px;
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 10px;
+    /* transition-timing-function: linear; */
+    transition: margin-top 1s cubic-bezier(0.075, 0.82, 0.165, 1) 0.2s;
+}
+div:hover{
+    background-color: black;
+    /* border-radius: 50%; */
+    margin-top: 400px;
+}
