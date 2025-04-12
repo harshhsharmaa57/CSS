@@ -3,6 +3,7 @@
     width: 400px;
     margin: 10px auto;
     background-color: azure;
+    
     border: 2px solid black;
     display: flex;
     flex-wrap: wrap;
